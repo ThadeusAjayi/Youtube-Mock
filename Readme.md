@@ -16,7 +16,7 @@ This is a sample UI demonstration project mocking Youtube mobile application.
 The example is currently scrollable with data into a __Flatlist__, a modular component to handle each item in the list, with __Image__, __Text__, __IconAwesome__ from react-native-vector-icons/MaterialIcons etc.
 
 ## Sample
-![Youtube UI](/sample.png =250x)
+<img src="/sample.png" width="200">
 
 
 ### Note
